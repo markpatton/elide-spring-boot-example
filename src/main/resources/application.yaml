@@ -11,7 +11,7 @@ elide:
     enabled: true
   graphql:
     path: /graphql/api/v1
-    enabled: true
+    enabled: false
   swagger:
     path: /doc
     enabled: true
